@@ -31,7 +31,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/ricardosguimaraes/nlw-3-happy/blob/main/LICENSE) para mais detalhes.
 
 ---
 
