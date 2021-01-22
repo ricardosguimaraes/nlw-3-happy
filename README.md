@@ -1,14 +1,7 @@
 <div background="black">
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="https://github.com/ricardosguimaraes/nlw-3-happy/blob/main/public/images/logo.svg" />
+    <img alt="Happy" title="Happy" src="https://github.com/ricardosguimaraes/nlw-3-happy/blob/main/public/images/logo-icon.png" />
 </h1>
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 <br>
 
