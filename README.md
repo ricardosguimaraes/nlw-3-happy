@@ -1,3 +1,4 @@
+<div background="black">
 <h1 align="center">
     <img alt="Happy" title="Happy" src="https://github.com/ricardosguimaraes/nlw-3-happy/blob/main/public/images/logo.svg" />
 </h1>
@@ -42,3 +43,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <p align="center">Desenvolvido com 💜</p>
+
+</div>
